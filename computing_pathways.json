@@ -1,0 +1,46 @@
+[
+ {
+   "code": "HNC",
+   "title": "HNC Computing"
+ },
+ {
+   "code": "C",
+   "title": "General Computing"
+ },
+ {
+   "code": "GV",
+   "title": "Graphics and Visualisation"
+ },
+ {
+   "code": "CN",
+   "title": "Computer Network Engineering"
+ },
+ {
+   "code": "CS",
+   "title": "Computer System Engineering"
+ },
+ {
+   "code": "WT",
+   "title": "Web Technology and Security"
+ },
+ {
+   "code": "MC",
+   "title": "Mobile Computing"
+ },
+ {
+   "code": "SE",
+   "title": "Software Engineering"
+ },
+ {
+   "code": "BCS",
+   "title": "Business Computing Systems"
+ },
+ {
+   "code": "BCW",
+   "title": "Business Computing Web Design"
+ },
+ {
+   "code": "GD",
+   "title": "Game Development"
+ }
+]
