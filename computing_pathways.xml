@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <code>HNC</code>
+    <title>HNC Computing</title>
+  </row>
+  <row>
+    <code>C</code>
+    <title>General Computing</title>
+  </row>
+  <row>
+    <code>GV</code>
+    <title>Graphics and Visualisation</title>
+  </row>
+  <row>
+    <code>CN</code>
+    <title>Computer Network Engineering</title>
+  </row>
+  <row>
+    <code>CS</code>
+    <title>Computer System Engineering</title>
+  </row>
+  <row>
+    <code>WT</code>
+    <title>Web Technology and Security</title>
+  </row>
+  <row>
+    <code>MC</code>
+    <title>Mobile Computing</title>
+  </row>
+  <row>
+    <code>SE</code>
+    <title>Software Engineering</title>
+  </row>
+  <row>
+    <code>BCS</code>
+    <title>Business Computing Systems</title>
+  </row>
+  <row>
+    <code>BCW</code>
+    <title>Business Computing Web Design</title>
+  </row>
+  <row>
+    <code>GD</code>
+    <title>Game Development</title>
+  </row>
+</root>
